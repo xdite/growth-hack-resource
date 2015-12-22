@@ -28,5 +28,5 @@ GrowthHack 是一門相當新興的 Marketing + Tech 的技術。然而這門學
 
 ## 學習資源
 
-* [初階課程/書籍/影片](articles.md)
+* [初階課程/書籍/影片](books.md)
 * [具體實作文章](articles.md)
