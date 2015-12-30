@@ -31,16 +31,19 @@
 ### Landing Page
 
 * [一切都是誘因的問題！](http://www.books.com.tw/products/0010663601)
+* 為什麼的力量 The Power of Why
 * [Simon Sinek - 偉大的領導者如何鼓動行為 (中英雙字幕)](https://www.youtube.com/watch?v=sZw8a8y85BU)
 
 ### Onboarding
 
 * [The Membership Economy](http://www.amazon.com/The-Membership-Economy-Transaction-Recurring/dp/0071839321)
+* 習慣決定一切消費行為
 * [把任何東西賣給任何人](http://www.m.sanmin.com.tw/Product/Index/002987214)
 * [料理好吃還不夠，這樣開店才會賺：實錄日本20家店起死回生術X 60招破解不景氣下排隊餐廳祕訣](http://www.books.com.tw/products/0010596649)
 
 ### Customer Support
 
+* 引爆需求 - 讓顧客無可救藥愛上你的 6 個秘密
 * [最極致的服務最賺錢](http://www.books.com.tw/products/0010578004)
 
 ## Referral 
